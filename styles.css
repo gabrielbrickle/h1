@@ -1,3 +1,98 @@
+
+* {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  width: 100%;
+  background-color: #FFF;
+}
+
+h3 {
+  margin: 0 0 0 0px;
+  color: #2B6DC5;
+  display: block;
+    font-family: 'Shadows Into Light', Arial, sans-serif;
+    background-color:#FFF;
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+ul {
+  display: block;
+  padding: 0px;
+}
+
+li {
+  display: block;
+  padding-left: 25px;
+}
+
 body {
-  background-color: orange;
+  background-color: #CAD8F7;
+}
+
+img  {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    margin-left: 40%;
+
+  }
+
+#currentlocation {
+  text-align: center;
+  font-family: 'Shadows Into Light', Arial, sans-serif;
+    background-color:#FFF;
+    margin: 0 0 0 0px;
+    color: #2B6DC5;
+
+}
+
+#email {
+  text-align: center;
+  font-family: 'Shadows Into Light', Arial, sans-serif;
+    background-color:#FFF;
+    margin: 0 0 0 0px;
+    color: #2B6DC5;
+
+}
+
+#background {
+    text-align: center;
+    background-color:#FFF;
+    margin: 0 0 0 0px;
+    font-size: large;
+    padding: 20px 20px 20px 20px;
+    color: #2B6DC5;
+
+
+}
+
+#experience {
+    text-align: center;
+    background-color:#FFF;
+    margin: 0 0 0 0px;
+    font-size: large;
+    padding: 20px 20px 20px 20px;
+    color: #2B6DC5;
+
+
+}
+
+#contact {
+    text-align: center;
+    background-color:#FFF;
+    margin: 0 0 0 0px;
+    font-size: large;
+    padding: 20px 20px 20px 20px;
+    color:#2B6DC5;
+
+
+}
+
+#backgroundinfo {
+      padding-left: 2%;
+
 }
